@@ -13,7 +13,7 @@ function AutomaticBatching() {
     setValue(value => value + 1)
   }
   useEffect(() => {
-    alert("Updated: " + value)
+    console.log("Updated: " + value)
   }, [value])
   return (
     <>
