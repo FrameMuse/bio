@@ -77,6 +77,6 @@
     "@typescript-eslint/no-namespace": "warn",
     "no-empty": "warn",
     "react/prop-types": "warn",
-    "react/display-name": "off"
+    "react/display-name": "off",
   }
 }
