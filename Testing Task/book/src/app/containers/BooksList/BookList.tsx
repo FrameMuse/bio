@@ -1,13 +1,15 @@
 import { FormEvent, Suspense, useState } from "react"
-import { SuspenseQuery } from "react-fetching-library"
+import { SuspenseQuery, useQuery } from "react-fetching-library"
 import { getBookList } from "app/api/actions/books"
 import BookTable, { BookTableRowProps } from "app/components/BookTable/BookTable"
 import SuspenseLoader from "app/components/SuspenseLoader/SuspenseLoader"
 import { SortType } from "app/interfaces/Laravel"
+import BookListModifier from "./BookListModifier"
 
 function BookList() {
   const [sorting, setSorting] = useState<Partial<SortType<keyof BookTableRowProps>>>({})
   const [filters, setFilters] = useState<Partial<BookTableRowProps>>({})
+  const { payload, query } = useQuery(getBookList({ ...sorting, ...filters }))
   function filterFactory(name: keyof BookTableRowProps) {
     return (event: FormEvent<HTMLInputElement>) => {
       const target = event.currentTarget
@@ -29,14 +31,11 @@ function BookList() {
         <input onInput={filterFactory("image")} placeholder="Enter to filter by image..." />
       </div>
       <div className="book-list__container">
-        <Suspense fallback={<SuspenseLoader />}>
-          <SuspenseQuery action={getBookList({ ...sorting, ...filters })}>
-            {({ payload }) => payload ? (
-              <BookTable books={payload.data} onSortingChange={setSorting} />
-            ) : "Something's not going well"}
-          </SuspenseQuery>
-        </Suspense>
+        {payload ? (
+          <BookTable books={payload.data} onSortingChange={setSorting} />
+        ) : "Something's not going well"}
       </div>
+      <BookListModifier onSubmit={() => query()} />
     </div >
   )
 }

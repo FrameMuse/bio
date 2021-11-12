@@ -7,3 +7,12 @@ export const getBookList = (request: Partial<SortType<keyof BookTableRowProps>> 
   endpoint: "/books?" + createQuery(request),
   method: "GET"
 })
+
+export const postAddNewBook = (request: Partial<BookTableRowProps>): Action<{
+  message?: string
+  errors: Record<string, string> | null
+}> => ({
+  endpoint: "/books/create",
+  method: "POST",
+  body: request
+})
