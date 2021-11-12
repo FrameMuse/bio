@@ -3,7 +3,7 @@ import { PaginationType, SortType } from "app/interfaces/Laravel"
 import { createQuery } from "app/utils/common"
 import { Action } from "react-fetching-library"
 
-export const getBookList = (request: Partial<SortType<keyof BookTableRowProps>> & Partial<BookTableRowProps>): Action<PaginationType<BookTableRowProps[]>> => ({
+export const getBookList = (request: Partial<SortType<keyof BookTableRowProps>> & Partial<BookTableRowProps> & { page: number }): Action<PaginationType<BookTableRowProps[]>> => ({
   endpoint: "/books?" + createQuery(request),
   method: "GET"
 })
