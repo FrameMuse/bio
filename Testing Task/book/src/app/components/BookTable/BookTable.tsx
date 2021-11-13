@@ -1,6 +1,5 @@
-import { useState } from "react"
+import { useState, useEffect } from "react"
 import { SortType } from "app/interfaces/Laravel"
-import { useEffect } from "react"
 
 type SortingState = Partial<SortType<keyof BookTableRowProps>>
 

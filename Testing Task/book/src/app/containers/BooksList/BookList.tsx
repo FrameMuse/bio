@@ -1,8 +1,7 @@
-import { FormEvent, Suspense, useEffect, useState } from "react"
-import { SuspenseQuery, useQuery } from "react-fetching-library"
+import { FormEvent, useEffect, useState } from "react"
+import { useQuery } from "react-fetching-library"
 import { getBookList } from "app/api/actions/books"
 import BookTable, { BookTableRowProps } from "app/components/BookTable/BookTable"
-import SuspenseLoader from "app/components/SuspenseLoader/SuspenseLoader"
 import { SortType } from "app/interfaces/Laravel"
 import BookListModifier from "./BookListModifier"
 
@@ -13,7 +12,7 @@ function BookList() {
   const { payload, query } = useQuery(getBookList({ ...sorting, ...filters, page }))
   function nextPage() {
     if (payload == null) return
-    if (page < (payload?.total || 10)) {
+    if (page < payload.total) {
       setPage(page + 1)
     }
   }
@@ -54,7 +53,7 @@ function BookList() {
         <div className="book-list-paging__page">{page}/{payload?.total ?? "?"}</div>
         <button className="book-list-paging__button" onClick={() => nextPage()}>Go to next page</button>
       </div>
-      <BookListModifier onSubmit={() => query()} />
+      <BookListModifier onSubmit={query} />
     </div >
   )
 }
