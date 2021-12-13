@@ -1,5 +1,7 @@
 # My bio is this.
 
+![](https://komarev.com/ghpvc/?username=FrameMuse)
+
 ## Hello!
 
 I always work on projects that not only will satisfy demands of consumers but also give them nice approaches and quick responses. My desire is to make people happy about using a website.
