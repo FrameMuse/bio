@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=FrameMuse)
 
+![](https://discordapp.com/api/guilds/1002540200611819541/widget.png?style=banner4)
+
 ## Hello!
 
 I always work on projects that not only will satisfy demands of consumers but also give them nice approaches and quick responses. My desire is to make people happy about using a website.
