@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=FrameMuse)
 
-![](https://discordapp.com/api/guilds/1002540200611819541/widget.png?style=banner4)
+![](https://discordapp.com/api/guilds/1002540200611819541/widget.png?style=banner3)
 
 ## Hello!
 
