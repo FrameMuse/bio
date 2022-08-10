@@ -1,6 +1,6 @@
 # My bio is this.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFrameMuse%2FFrameMuse&count_bg=%234D91D9&title_bg=%234D555C&icon=hey.svg&icon_color=%23E7E7E7&title=Viewing+%2F+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFrameMuse%2FFrameMuse&count_bg=%234D91D9&title_bg=%234D555C&icon=hey.svg&icon_color=%23E7E7E7&title=Daily+%2F+Total+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![](https://discordapp.com/api/guilds/1002540200611819541/widget.png?style=banner3)
 
