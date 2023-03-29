@@ -20,6 +20,8 @@ You can text me in [telegram](https://t.me/FrameMuse) or in the discord server.
 
 [![](https://discordapp.com/api/guilds/1002540200611819541/widget.png?style=banner2)](https://discord.gg/DCUWrRhvnt)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8IZ8TU)
+
 ## Long Bio but funny... I guess
 
 My journey into the world of programming began quite a long time ago, it's hard for some to believe, but what got me on the path was boredom. It somehow happened that at the age of 11 I found the book "HTML & CSS for Dummies", well, that's how it went :)
