@@ -17,6 +17,7 @@ I always work on projects that not only will satisfy demands of consumers but al
 -  [Github](https://github.com/FrameMuse)
 -  [Codewars](https://www.codewars.com/users/FrameMuse)
 -  [StackOverflow](https://stackoverflow.com/users/story/12468111)
+-  [![Peerlist](https://github-readme-badge.peerlist.io/api/framemuse?style=social)](https://peerlist.io/framemuse)
 
 You can text me in [telegram](https://t.me/FrameMuse) or in the discord server.
 
