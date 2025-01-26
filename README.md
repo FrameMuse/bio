@@ -8,8 +8,6 @@ I'm a developer, I usually create web applications with TypeScript React. Beyond
 
 Sorted from the most recent to the oldest. **I recommend** to look at the most recent projects with links.
 
-
-
 - Other Softwares and UI design solutions (current workplace) - maybe in far future I will reveal or maybe not
 - Figma Plugin (current workplace)
 - Admin Panel (current workplace)
@@ -27,6 +25,8 @@ Sorted from the most recent to the oldest. **I recommend** to look at the most r
 - https://github.com/FrameMuse/StandoffCard
 - https://github.com/FrameMuse/StandoffRoll
 - Promocodes website - the website I started my career as I got money for this (couldn't find the codebase, it was 10 years ago)
+
+A few other projects may be listed in my [LinkedIn](https://www.linkedin.com/in/framemuse/).
 
 #### Side projects
 
