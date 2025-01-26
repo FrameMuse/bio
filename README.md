@@ -1,7 +1,6 @@
 # About me
 
-I'm a developer, I like to call myself as "Web Engineer", I create web applications mainly with TypeScript React.
-Even though I have a job, I spend time creating Web UX, development tools libraries.
+I'm a developer, I like to call myself as "Web Engineer", I usually create web applications with TypeScript React. Beyond active job, I'm creating libraries.
 
 ### Portfolio
 
