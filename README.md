@@ -1,7 +1,48 @@
 # About me
 
 I'm a developer, I like to call myself as "Web Engineer", I create web applications mainly with TypeScript React.
-Even though I have a job, I spend time creating Web UX, development tools libraries. You can find some of them in [my lounge](https://github.com/FrameMuse-Lounge).
+Even though I have a job, I spend time creating Web UX, development tools libraries.
+
+### Portfolio
+
+#### Big projects
+
+Sorted from the most recent to the oldest. **I recommend** to look at the most recent projects with links.
+
+
+
+- Other Softwares and UI design solutions (current workplace) - maybe in far future I will reveal or maybe not
+- Figma Plugin (current workplace)
+- Admin Panel (current workplace)
+- API Architecture (current workplace)
+
+- https://github.com/FrameMuse/algo-academy
+- [Governmental Project - Website for helping children to start their school activities faster via small games]
+- https://github.com/FrameMuse/creaty-frontend
+- https://github.com/FrameMuse/merlines-frontend
+- CSGOKnife (coudn't find codebase)
+- https://github.com/FrameMuse/Case-Simulator-React - Minimal codebase since the project is still alive
+- https://github.com/FrameMuse/standoffup
+- https://github.com/FrameMuse/StandoffSpin
+- https://github.com/FrameMuse/StandoffCrash
+- https://github.com/FrameMuse/StandoffCard
+- https://github.com/FrameMuse/StandoffRoll
+- Promocodes website - the website I started my career as I got money for this (couldn't find the codebase, it was 10 years ago)
+
+#### Side projects
+
+- https://github.com/FrameMuse/polygon-constructor
+- https://github.com/FrameMuse/mzv-news
+- https://github.com/FrameMuse/FrameMuse-Galaxy
+- https://github.com/FrameMuse/Sakura-GPT-Bot
+- https://github.com/FrameMuse/tg-bot
+
+I also worked on many of my libraries, some of them can be found here, other can't as it's too shameful for me to show them...
+
+#### History of my self-learning
+
+Here are the play-around projects that I did because I just liked coding:
+https://github.com/stars/FrameMuse/lists/early-projects
 
 ## Short bio
 
@@ -14,39 +55,11 @@ I always work on projects that not only will satisfy demands of consumers but al
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65395259602c6661a55b4a81?variant=dark&roadmaps=typescript%2Creact%2Csoftware-architect%2Cfrontend)](https://roadmap.sh)
 
 ## Refs
--  [Github](https://github.com/FrameMuse)
--  [Codewars](https://www.codewars.com/users/FrameMuse)
--  [StackOverflow](https://stackoverflow.com/users/story/12468111)
--  [![Peerlist](https://github-readme-badge.peerlist.io/api/framemuse?style=social)](https://peerlist.io/framemuse)
 
-You can text me in [telegram](https://t.me/FrameMuse) or in the discord server.
+||||||
+|----|----|----|----|----|
+|[Github](https://github.com/FrameMuse)|[Codewars](https://www.codewars.com/users/FrameMuse)|[StackOverflow](https://stackoverflow.com/users/story/12468111)|[Peerlist](https://peerlist.io/framemuse)|[Telegram](https://t.me/FrameMuse)|
 
-[![](https://discordapp.com/api/guilds/1002540200611819541/widget.png?style=banner2)](https://discord.gg/DCUWrRhvnt)
+## Keep reading about me
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8IZ8TU)
-
-## Long Bio but funny... I guess
-
-My journey into the world of programming began quite a long time ago, it's hard for some to believe, but what got me on the path was boredom. It somehow happened that at the age of 11 I found the book "HTML & CSS for Dummies", well, that's how it went :)
-
-I love TypeScript very much, before I face it I was sure that I would never like it or use, but one day I just fell in love with it, now I use it on a daily basis. If there is a possibility to use it my project - **I will ^_^**.
-
-I got acquainted with React even earlier and TypeScript was a game changer for how I develop applications on React, I think it's probably the best bunch I've worked with and have been working with for some more years. One of things I really like to do in react is creating my own components, more for fun, so I learn how some existing components work, for example `DateRangePicker` or `CheckTreePicker`. By this time, I already have a large number of components and [my own template](https://github.com/FrameMuse/react-template).
-
-I constantly learning and reading foreign magazines and articles, sometime I had to read an article about
-mathematics in order to figure out the difficult task, this was "rotation matrix" - _Oh heaven, this was a hell_.
-
-As for UI interfaces, I have been working with them for a long time, about 5 years, sometimes I even “scold” designers for inaccuracies: in the selection of colors, in the wrong centering, or in principle when the solution is inconvenient, not practical and difficult to implement. I blame on them: why you can't just do your job - this is so much pain to work with incompetent designers as they have a lot of responsibility which they underestimate.
-
-I am constantly developing and striving for new heights, I learn very quickly, not only because of "some" experience in this area, but also because of interests and hobbies in different, unrelated areas.
-I am fond of learning languages and programming languages. I try to create and develop my
-own projects. I try to approach the task responsibly, although I sometimes get lazy, bored and can get exhausted (I need to get enough rest), I once got breakdown and burnout - disgusting feeling, but gives life experience.
-My hobbies are skateboarding, playing musical instruments (I study in a musical conservatory as a percussionist), PC games, and I also like listening to
-music (any kind), I try to do physical exercises, several years ago I had been engaged in karate.
-
-Trying myself in new places, learning Unity, trying to create a couple of games. During the learning process I loved C#.
-I follow and participate (a little though) in the life of ECMA - I look through tc39 proposals and comment on them, put forward my suggestions on proposals.
-
-I also studied at Czeck language school for 9 months and some months at Japanese.
-
-_Thank you for reading_, in the case if you really read it.
+https://github.com/FrameMuse/FrameMuse/blob/main/bio.md
