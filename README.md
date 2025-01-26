@@ -30,6 +30,7 @@ Sorted from the most recent to the oldest. **I recommend** to look at the most r
 
 #### Side projects
 
+- https://github.com/FrameMuse/react-i18n-editor
 - https://github.com/FrameMuse/polygon-constructor
 - https://github.com/FrameMuse/mzv-news
 - https://github.com/FrameMuse/FrameMuse-Galaxy
