@@ -35,10 +35,10 @@ Here are the play-around projects that I did because I just liked coding:
 https://github.com/stars/FrameMuse/lists/early-projects
 
 **Current workplace projects**
-- Other Softwares and UI design solutions (current workplace) - maybe in far future I will reveal or maybe not
-- Figma Plugin (current workplace)
-- Admin Panel (current workplace)
-- API Architecture (current workplace)
+- Other Softwares and UI design solutions - maybe in far future I will reveal or maybe not
+- Figma Plugin
+- Admin Panel
+- API Architecture
 
 A few other projects may be listed in my [LinkedIn](https://www.linkedin.com/in/framemuse/).
 
