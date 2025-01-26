@@ -6,7 +6,7 @@ I'm a developer, I usually create web applications with TypeScript React. Beyond
 
 #### Big projects
 
-Sorted from the most recent to the oldest. **I recommend** to look at the most recent projects with links.
+Sorted from the most recent to the oldest.
   
 - https://github.com/FrameMuse/algo-academy
 - https://github.com/FrameMuse/etukk-front-copy
