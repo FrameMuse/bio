@@ -15,7 +15,6 @@ Sorted from the most recent to the oldest. **I recommend** to look at the most r
 - Figma Plugin (current workplace)
 - Admin Panel (current workplace)
 - API Architecture (current workplace)
-
 - https://github.com/FrameMuse/algo-academy
 - [Governmental Project - Website for helping children to start their school activities faster via small games]
 - https://github.com/FrameMuse/creaty-frontend
@@ -52,7 +51,7 @@ I always work on projects that not only will satisfy demands of consumers but al
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFrameMuse%2FFrameMuse&count_bg=%234D91D9&title_bg=%234D555C&icon=hey.svg&icon_color=%23E7E7E7&title=Daily+%2F+Total+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65395259602c6661a55b4a81?variant=dark&roadmaps=typescript%2Creact%2Csoftware-architect%2Cfrontend)](https://roadmap.sh)
+<img alt="roadmap.sh" width="20%" src="https://api.roadmap.sh/v1-badge/tall/65395259602c6661a55b4a81?variant=dark&roadmaps=typescript%2Creact%2Csoftware-architect%2Cfrontend" />
 
 ## Refs
 
