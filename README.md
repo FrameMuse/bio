@@ -17,6 +17,7 @@ Sorted from the most recent to the oldest. **I recommend** to look at the most r
 - API Architecture (current workplace)
 - https://github.com/FrameMuse/algo-academy
 - [Governmental Project - Website for helping children to start their school activities faster via small games]
+- https://github.com/FrameMuse/etukk-front-copy
 - https://github.com/FrameMuse/creaty-frontend
 - https://github.com/FrameMuse/merlines-frontend
 - CSGOKnife (coudn't find codebase)
@@ -33,6 +34,7 @@ Sorted from the most recent to the oldest. **I recommend** to look at the most r
 - https://github.com/FrameMuse/react-i18n-editor
 - https://github.com/FrameMuse/polygon-constructor
 - https://github.com/FrameMuse/mzv-news
+- https://github.com/FrameMuse/corpachat-frontend
 - https://github.com/FrameMuse/FrameMuse-Galaxy
 - https://github.com/FrameMuse/Sakura-GPT-Bot
 - https://github.com/FrameMuse/tg-bot
